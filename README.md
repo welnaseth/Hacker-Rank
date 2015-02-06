@@ -1,1 +1,1 @@
-Answers to Hacker Rank Problems
+Solutions to Hacker Rank problems
